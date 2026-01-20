@@ -3,6 +3,7 @@ import HeroSection from '../components/HeroSection'
 import FeaturedSection from '../components/FeaturedSection'
 import MovieCard from '../components/MovieCard'
 import TrailerSection from '../components/TrailerSection'
+import Footer from '../components/Footer'
 
 const Home = () => {
   return (
